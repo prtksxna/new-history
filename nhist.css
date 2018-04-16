@@ -1,0 +1,15 @@
+.mw-history-table td {
+  padding: 3px 6px;
+}
+
+.mw-history-table tr:hover {
+  background-color: #eaf3ff;
+}
+
+.mw-history-table .mw-usertoollinks {
+  visibility: hidden;
+}
+
+.mw-history-table tr:hover .mw-usertoollinks {
+  visibility: visible;
+}
